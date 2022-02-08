@@ -7,3 +7,7 @@
     word-spacing: normal;
     color: pink;
 }
+
+#overrides nav{
+    background-color: pink;
+}
